@@ -1,0 +1,16 @@
+h1 {
+    size: 4 rem;
+    background: green;
+    height: 80px; 
+    width: 80px;
+    justify-content: center;
+    
+}
+
+h2 {
+    height: 100px;
+    width: 100px;
+    background: blue;
+    margin-top: 8%;
+    margin-left: 50%
+}
